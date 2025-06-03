@@ -32,7 +32,7 @@
           <mxGeometry x="-60" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-24" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="216.25" y="790" width="102" height="40" as="geometry" />
+          <mxGeometry x="204" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-25" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="469" y="790" width="102" height="40" as="geometry" />
@@ -97,7 +97,7 @@
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#f0a30a;strokeColor=#171717;fontSize=16;exitX=0.646;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SXOr1pzU3T7Has66gyso-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=34;fillColor=#f0a30a;strokeColor=#171717;fontSize=16;exitX=0.646;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290.03999999999996" y="920.0999999999999" as="sourcePoint" />
             <mxPoint x="507.75" y="920" as="targetPoint" />
