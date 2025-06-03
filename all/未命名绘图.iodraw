@@ -216,6 +216,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1300" as="sourcePoint" />
+            <mxPoint x="291" y="1300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="249" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-62" value="git stash" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-61">
+          <mxGeometry x="-0.4709" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
