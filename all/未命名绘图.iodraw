@@ -29,7 +29,7 @@
           <mxGeometry x="679" y="740" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-23" value="Workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="109" y="790" width="102" height="40" as="geometry" />
+          <mxGeometry x="135.5" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-24" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="790" width="102" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="520" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-34" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="1190" width="57" height="50" as="geometry" />
+          <mxGeometry x="332.5" y="1210" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.49;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SXOr1pzU3T7Has66gyso-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.49999999999994" y="1390" as="sourcePoint" />
-            <mxPoint x="289.7" y="1257" as="targetPoint" />
+            <mxPoint x="360.49999999999994" y="1410" as="sourcePoint" />
+            <mxPoint x="360.7" y="1277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
