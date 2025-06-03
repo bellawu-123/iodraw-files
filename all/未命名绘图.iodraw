@@ -151,9 +151,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-54" value="git stash" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-52">
+        <mxCell id="SXOr1pzU3T7Has66gyso-54" value="git stash" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-52">
           <mxGeometry x="-0.4709" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-55" value="git fetch" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;textDirection=ltr;fontSize=12;" edge="1" parent="1">
