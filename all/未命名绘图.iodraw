@@ -121,11 +121,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-64" value="git stash apply" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-63">
-          <mxGeometry x="-0.4709" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-65" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="780.5" width="110" height="40" as="geometry" />
         </mxCell>
@@ -239,15 +234,30 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-80" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="990" as="sourcePoint" />
-            <mxPoint x="540" y="990" as="targetPoint" />
+            <mxPoint x="250" y="1320" as="sourcePoint" />
+            <mxPoint x="10" y="1320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="609" y="990" />
-              <mxPoint x="599" y="990" />
+              <mxPoint x="79" y="1320" />
+              <mxPoint x="69" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-81" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-80">
+          <mxGeometry x="-0.2855" relative="1" as="geometry">
+            <mxPoint x="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-82" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1330" as="sourcePoint" />
+            <mxPoint x="20" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="89" y="1330" />
+              <mxPoint x="79" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-83" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-82">
           <mxGeometry x="-0.2855" relative="1" as="geometry">
             <mxPoint x="-34" as="offset" />
           </mxGeometry>
