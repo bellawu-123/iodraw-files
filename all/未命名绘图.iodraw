@@ -174,7 +174,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-59" value="git checkout" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;exitX=0.217;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=16;labelBackgroundColor=none;textDirection=ltr;" edge="1" parent="1" source="SXOr1pzU3T7Has66gyso-16">
+        <mxCell id="SXOr1pzU3T7Has66gyso-59" value="git checkout" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;exitX=0.217;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=16;labelBackgroundColor=none;textDirection=ltr;" edge="1" parent="1" source="SXOr1pzU3T7Has66gyso-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="436.96000000000004" y="1084.58" as="sourcePoint" />
             <mxPoint x="208.5" y="1084.5" as="targetPoint" />
