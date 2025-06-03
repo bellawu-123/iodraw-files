@@ -76,6 +76,9 @@
             <mxPoint x="421" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-29" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="840" width="57" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
