@@ -32,19 +32,19 @@
           <mxGeometry x="525" y="710" width="120" height="530" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="800" width="120" height="420" as="geometry" />
+          <mxGeometry x="100" y="780" width="120" height="440" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="780" width="120" height="440" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="800" width="120" height="200" as="geometry" />
+          <mxGeometry x="230" y="780" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-18" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="830" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1020" width="120" height="200" as="geometry" />
+          <mxGeometry x="230" y="1010" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="720" width="102" height="40" as="geometry" />
