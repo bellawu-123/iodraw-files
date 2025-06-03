@@ -38,7 +38,7 @@
           <mxGeometry x="360" y="780" width="120" height="610" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="780" width="120" height="210" as="geometry" />
+          <mxGeometry x="230" y="780" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-18" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="830" width="57" height="50" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="369" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-26" value="Stash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1010" width="102" height="40" as="geometry" />
+          <mxGeometry x="237.5" y="1150" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-31" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="130" y="840" width="57" height="50" as="geometry" />
