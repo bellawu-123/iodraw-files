@@ -35,7 +35,7 @@
           <mxGeometry x="216.25" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-25" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="790" width="102" height="40" as="geometry" />
+          <mxGeometry x="469" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-26" value="Stash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="216.25" y="1140" width="102" height="40" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="238" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-33" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="520" y="840" width="57" height="50" as="geometry" />
+          <mxGeometry x="491.5" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-34" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="1190" width="57" height="50" as="geometry" />
@@ -66,8 +66,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="548" y="1390" as="sourcePoint" />
-            <mxPoint x="547" y="890" as="targetPoint" />
+            <mxPoint x="519.5" y="1390" as="sourcePoint" />
+            <mxPoint x="518.5" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.479;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
