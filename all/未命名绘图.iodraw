@@ -50,7 +50,7 @@
           <mxGeometry x="520" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-34" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="1210" width="57" height="50" as="geometry" />
+          <mxGeometry x="341.5" y="1210" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
