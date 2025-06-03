@@ -206,16 +206,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-60" value="git clone" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="587" y="1094.5" as="sourcePoint" />
-            <mxPoint x="440" y="1094.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="557" y="1094.5" />
-              <mxPoint x="499" y="1094.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="281" y="1330" as="sourcePoint" />
