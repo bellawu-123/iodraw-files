@@ -38,7 +38,7 @@
           <mxGeometry x="497.5" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-26" value="Stash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318.25" y="1160" width="102" height="40" as="geometry" />
+          <mxGeometry x="216.25" y="1140" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-31" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="-44" y="840" width="57" height="50" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="520" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-34" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="341.5" y="1210" width="57" height="50" as="geometry" />
+          <mxGeometry x="239.5" y="1190" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SXOr1pzU3T7Has66gyso-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="1400" as="sourcePoint" />
-            <mxPoint x="360.7" y="1277" as="targetPoint" />
+            <mxPoint x="268" y="1380" as="sourcePoint" />
+            <mxPoint x="258.7" y="1257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
