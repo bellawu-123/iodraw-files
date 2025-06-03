@@ -49,8 +49,8 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="720" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-22" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="720" width="110" height="40" as="geometry" />
+        <mxCell id="SXOr1pzU3T7Has66gyso-22" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="740" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
