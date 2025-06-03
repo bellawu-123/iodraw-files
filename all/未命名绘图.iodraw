@@ -17,13 +17,13 @@
           <mxGeometry x="410" y="775" width="231" height="640" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="775" width="230" height="350" as="geometry" />
+          <mxGeometry x="130" y="775" width="240" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-18" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="705.5" y="830" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1135" width="230" height="280" as="geometry" />
+          <mxGeometry x="130" y="1135" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-22" value="Remote Server" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="679" y="740" width="110" height="40" as="geometry" />
