@@ -111,15 +111,6 @@
             <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-57" value="git pull" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;labelBackgroundColor=none;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1030" as="sourcePoint" />
-            <mxPoint x="208.5" y="1030" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="267.5" y="1030" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-58" value="git clone" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=16;textDirection=ltr;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="711.5" y="1080" as="sourcePoint" />
