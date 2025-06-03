@@ -100,21 +100,21 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#171717;fontSize=16;exitX=0.646;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="291" y="920.0999999999999" as="sourcePoint" />
-            <mxPoint x="500" y="920" as="targetPoint" />
+            <mxPoint x="499" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="456.75" y="920" />
               <mxPoint x="466.75" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-49" value="git commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=16;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-44">
+        <mxCell id="SXOr1pzU3T7Has66gyso-49" value="git commit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-44">
           <mxGeometry x="-0.3664" y="1" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-50" value="git push" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#171717;fontSize=16;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry x="0.0068" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="912" as="sourcePoint" />
+            <mxPoint x="570" y="910" as="sourcePoint" />
             <mxPoint x="780" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="629" y="910" />
