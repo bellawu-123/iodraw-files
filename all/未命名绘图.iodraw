@@ -67,6 +67,9 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-31" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="130" y="840" width="57" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-32" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="840" width="57" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
