@@ -26,7 +26,7 @@
           <mxGeometry x="135" y="1135" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-22" value="Remote Server" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="679" y="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="720" y="740.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-23" value="Workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="790" width="102" height="40" as="geometry" />
