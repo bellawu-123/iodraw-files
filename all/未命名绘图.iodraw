@@ -29,7 +29,7 @@
           <mxGeometry x="679" y="740" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-23" value="Workspace" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="790" width="102" height="40" as="geometry" />
+          <mxGeometry x="-60" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-24" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="319" y="790" width="102" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="318.25" y="1160" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-31" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="151.5" y="840" width="57" height="50" as="geometry" />
+          <mxGeometry x="-44" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-32" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="340.75" y="840" width="57" height="50" as="geometry" />
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180.5" y="1400" as="sourcePoint" />
-            <mxPoint x="180.5" y="890" as="targetPoint" />
+            <mxPoint x="-15" y="1400" as="sourcePoint" />
+            <mxPoint x="-15" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.458;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
