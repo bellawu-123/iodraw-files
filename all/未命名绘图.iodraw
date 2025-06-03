@@ -32,7 +32,7 @@
           <mxGeometry x="-60" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-24" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="319" y="790" width="102" height="40" as="geometry" />
+          <mxGeometry x="216.25" y="790" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-25" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="790" width="102" height="40" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="-44" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-32" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="340.75" y="840" width="57" height="50" as="geometry" />
+          <mxGeometry x="238" y="840" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-33" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="520" y="840" width="57" height="50" as="geometry" />
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.479;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369" y="1120" as="sourcePoint" />
-            <mxPoint x="370.77" y="893" as="targetPoint" />
+            <mxPoint x="266.25" y="1120" as="sourcePoint" />
+            <mxPoint x="268.02" y="893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SXOr1pzU3T7Has66gyso-34">
