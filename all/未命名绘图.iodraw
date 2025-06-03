@@ -55,6 +55,12 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-23" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="790" width="102" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-24" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="790" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-25" value="Local Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="750" width="102" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
