@@ -100,8 +100,8 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-65" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="780.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;labelBackgroundColor=none;fillColor=#d5e8d4;labelBorderColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="730" width="113.5" height="30" as="geometry" />
+        <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;labelBackgroundColor=none;fillColor=#d5e8d4;labelBorderColor=none;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
