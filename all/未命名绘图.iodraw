@@ -111,25 +111,6 @@
             <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-58" value="git clone" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=16;textDirection=ltr;labelBackgroundColor=none;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="711.5" y="1080" as="sourcePoint" />
-            <mxPoint x="560" y="1080" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="677" y="1080" />
-              <mxPoint x="619" y="1080" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-59" value="git checkout" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;exitX=0.217;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#a0522d;strokeColor=#6D1F00;fontSize=16;labelBackgroundColor=none;textDirection=ltr;" edge="1" parent="1" source="SXOr1pzU3T7Has66gyso-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="436.96000000000004" y="1084.58" as="sourcePoint" />
-            <mxPoint x="208.5" y="1084.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="267.5" y="1084.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="1320" as="sourcePoint" />
@@ -234,6 +215,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-75" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-74">
+          <mxGeometry x="-0.2855" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="990" as="sourcePoint" />
+            <mxPoint x="540" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609" y="990" />
+              <mxPoint x="599" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SXOr1pzU3T7Has66gyso-77" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-76">
           <mxGeometry x="-0.2855" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
