@@ -233,7 +233,7 @@
         <mxCell id="SXOr1pzU3T7Has66gyso-65" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="790" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;labelBackgroundColor=default;fillColor=#d5e8d4;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;labelBackgroundColor=#bfdfa4;fillColor=#d5e8d4;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="247" y="740" width="102" height="30" as="geometry" />
         </mxCell>
       </root>
