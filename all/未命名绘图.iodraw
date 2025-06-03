@@ -97,8 +97,8 @@
             <mxPoint x="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-65" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="730" y="780.5" width="110" height="40" as="geometry" />
+        <mxCell id="SXOr1pzU3T7Has66gyso-65" value="Remote Repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="730" y="780.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-21" value="Local Server" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;labelBackgroundColor=none;fillColor=#d5e8d4;labelBorderColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="210" y="730" width="140" height="30" as="geometry" />
