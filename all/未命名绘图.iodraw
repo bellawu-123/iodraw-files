@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-69" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-68">
+        <mxCell id="SXOr1pzU3T7Has66gyso-69" value="git push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-68">
           <mxGeometry x="-0.2855" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
@@ -145,7 +145,7 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-71" value="git add" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=ltr;fontSize=20;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SXOr1pzU3T7Has66gyso-70">
           <mxGeometry x="-0.2855" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
+            <mxPoint x="-54" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=40;fillColor=#f0a30a;strokeColor=#1c1c1c;entryX=0.542;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SXOr1pzU3T7Has66gyso-15">
