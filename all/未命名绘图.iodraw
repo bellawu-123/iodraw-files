@@ -41,7 +41,7 @@
           <mxGeometry x="230" y="800" width="120" height="420" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-18" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="800" width="57" height="50" as="geometry" />
+          <mxGeometry x="556.5" y="830" width="57" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
