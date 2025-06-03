@@ -20,7 +20,7 @@
           <mxGeometry x="230" y="780" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-18" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="556.5" y="840" width="57" height="50" as="geometry" />
+          <mxGeometry x="705.5" y="830" width="57" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="230" y="1140" width="120" height="280" as="geometry" />
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.458;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="585" y="1417" as="sourcePoint" />
-            <mxPoint x="587.52" y="888" as="targetPoint" />
+            <mxPoint x="730" y="1409" as="sourcePoint" />
+            <mxPoint x="732.52" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SXOr1pzU3T7Has66gyso-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
