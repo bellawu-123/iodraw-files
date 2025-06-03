@@ -82,7 +82,7 @@
             <mxPoint x="360.7" y="1277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXOr1pzU3T7Has66gyso-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=21;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
+        <mxCell id="SXOr1pzU3T7Has66gyso-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endSize=10;startSize=17;width=30;fillColor=#f0a30a;strokeColor=#1c1c1c;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="221.5" y="910" as="sourcePoint" />
             <mxPoint x="332.5" y="910" as="targetPoint" />
